@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1733777179 source:c:\users\msi\desktop\probabilité\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1733943015 source:c:\users\msi\desktop\projet c\probabilité\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
